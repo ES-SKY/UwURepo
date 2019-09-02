@@ -1,0 +1,14 @@
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\Banking.baml
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\MainWindow.baml
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\Banking.g.cs
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\MainWindow.g.cs
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\App.g.cs
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp_MarkupCompile.cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.g.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.Properties.Resources.resources
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.csproj.GenerateResource.Cache
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+D:\MyTafe\2017_S1\5TSD\Resources\Session05\Banking\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
